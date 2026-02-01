@@ -140,10 +140,10 @@ export default function Home() {
               <div className="calendar-list">
                 <div className="calendar-item">
                   <div>
-                    <h4>CS 161 lecture</h4>
-                    <p>Room 204</p>
+                    <h4>CSE 130 lecture</h4>
+                    <p>Humanities</p>
                   </div>
-                  <span>9:00 AM</span>
+                  <span>2:40 PM</span>
                 </div>
                 <div className="calendar-item">
                   <div>
@@ -155,7 +155,7 @@ export default function Home() {
                 <div className="calendar-item">
                   <div>
                     <h4>Internship fair</h4>
-                    <p>Main hall</p>
+                    <p>Classroom Unit 2</p>
                   </div>
                   <span>6:00 PM</span>
                 </div>
