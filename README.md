@@ -1,1 +1,1 @@
-# inboxpilot
+This is our agentic ai project.
