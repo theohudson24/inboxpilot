@@ -6,7 +6,7 @@ export default function Home() {
           <div className="brand-mark">IP</div>
           <div>
             <div className="brand-title">INBOXPILOT</div>
-            <div className="brand-subtitle">Student Command</div>
+            <div className="brand-subtitle">Student Portal</div>
           </div>
           <span className="status-pill">Live</span>
         </div>
